@@ -14,6 +14,10 @@
 | Package | Description |
 | :--- | :--- |
 | [flask-simpleldap](https://github.com/alexferl/flask-simpleldap) |   LDAP authentication extension for the Flask web framework  |
+| [Flask-RESTful](https://github.com/flask-restful/flask-restful) |    Simple framework for creating REST APIs   |
+| [Flask-GraphQL](https://github.com/graphql-python/flask-graphql) |     Adds GraphQL support to your Flask application.    |
+
+
 
 ## SYSTEM
 
