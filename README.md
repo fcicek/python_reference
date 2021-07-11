@@ -54,6 +54,12 @@
 | :--- | :--- |
 | [Pexpect](https://github.com/pexpect/pexpect)  |  A Python module for controlling interactive programs in a pseudo-terminal   |
 
+## Visualization
+
+| Package | Description |
+| :--- | :--- |
+| [nxviz](https://github.com/ericmjl/nxviz)  |   Visualization Package for NetworkX. Composable and rational network visualizations in matplotlib   |
+
 
 
 
