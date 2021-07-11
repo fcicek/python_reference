@@ -8,8 +8,12 @@
 | [flask-admin](https://github.com/flask-admin/flask-admin) |   Simple and extensible administrative interface framework for Flask   |
 | [falcon](https://github.com/falconry/falcon) |    The no-nonsense REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.  |
  
+### Flask
 
 
+| Package | Description |
+| :--- | :--- |
+| [flask-simpleldap](https://github.com/alexferl/flask-simpleldap) |   LDAP authentication extension for the Flask web framework  |
 
 ## SYSTEM
 
