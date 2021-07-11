@@ -1,5 +1,18 @@
 # My Popular Packages
 
+## SYSTEM
+
+| Package | Description |
+| :--- | :--- |
+| [sh](http://amoffat.github.io/sh/) |  Python process launching  |
+
+## API
+
+| Package | Description |
+| :--- | :--- |
+| [Zeep](https://docs.python-zeep.org/) |  A modern/fast Python SOAP client based on lxml / requests  |
+
+
 
 ## NETWORK
 
